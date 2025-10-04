@@ -1,0 +1,8 @@
+the project consists of the following python packages:
+
+streamlit
+pandas
+sqlalchemy
+psycopg2-binary
+plotly
+python-dotenv
