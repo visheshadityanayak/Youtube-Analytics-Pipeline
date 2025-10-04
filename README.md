@@ -47,7 +47,6 @@ youtube-analytics/
 ## Setup Instructions
 
 ### 1. Clone the repo
-```bash
 git clone https://github.com/yourusername/youtube-analytics.git
 cd youtube-analytics
 
@@ -97,5 +96,6 @@ Future Improvements
 Automate the pipeline with Airflow or cron jobs.
 Include subscriber and revenue analytics.
 Support multiple channels in the dashboard.
+
 
 
